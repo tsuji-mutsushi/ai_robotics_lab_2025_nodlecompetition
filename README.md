@@ -1,1 +1,0 @@
-# ai_robotics_lab_2025_nodlecompetition
